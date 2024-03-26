@@ -5,7 +5,8 @@
     "vscode": {
       "extensions": [
         "github.vscode-github-actions",
-        "github.vscode-pull-request-github"
+        "github.vscode-pull-request-github",
+        "editorconfig.editorconfig"
       ]
     }
   }
