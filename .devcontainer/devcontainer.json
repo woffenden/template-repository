@@ -1,0 +1,13 @@
+{
+  "name": "template-repository",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "github.vscode-github-actions",
+        "github.vscode-pull-request-github",
+        "editorconfig.editorconfig"
+      ]
+    }
+  }
+}
